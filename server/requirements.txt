@@ -1,0 +1,9 @@
+transformers==2.2.1
+torchvision
+
+sklearn
+emoji
+gdown
+tensorflow==2.0.0a0
+flask
+flask-uploads
